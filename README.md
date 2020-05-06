@@ -3,7 +3,7 @@ Materials for the online meetup on the data visualisation in R, part I
 
 This repository stores the script, the data, and its description for the meetup on the foundations of data visualisation in R, which is the first part of a two-meeting seriess devoted to visualisation packages and techniques in R.
  
-To download the zippend folder you need to press the green button "Clone or download" above.
+To download the zippend folder together with this description you can press the green button "Clone or download" above.
 
 ## Speakers
 
